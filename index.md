@@ -37,7 +37,6 @@
 	</script>
 </body>
 </html>
-![image](https://user-images.githubusercontent.com/110306335/182038737-28374a3a-419b-4264-bf1c-438c39311578.png)
 
 
 
